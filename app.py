@@ -106,4 +106,4 @@ if uploaded_file is not None:
 
 else:
     st.info("Please upload the IMDB_Dataset.csv file to continue.")
-SENTIMENT WAla
+
